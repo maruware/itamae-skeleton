@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'itamae-skeleton/cli'
+ItamaeSkeleton::CLI.start
